@@ -1,2 +1,2 @@
 # Asteroids
-A simple game like asteroids with LeoECS
+A simple game like Asteroids(1979) with LeoECS
