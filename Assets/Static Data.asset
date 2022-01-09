@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d13a8a6420dcd974c88506c49752d95d, type: 3}
+  m_Name: Static Data
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 4762572297363046010, guid: 598acc8a110d4c543807a2bff46647aa, type: 3}
+  asteroidsPrefabs:
+  - {fileID: 8210401718813199017, guid: ecccdf04c3954724e9a5cb0d4809aa90, type: 3}
+  - {fileID: 3837456684378451904, guid: c6ad21f38bddb62438c6e83f92239685, type: 3}
+  projectilePrefab: {fileID: 3896511827032293730, guid: bf084fe1080fe624fb08e588831b9a50, type: 3}
